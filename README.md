@@ -1,5 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+### Please Run 'npm install' to install all dependencies
 *** You’ll need to have Node 8.10.0 or later on your local development machine
 
 ## Available Scripts
